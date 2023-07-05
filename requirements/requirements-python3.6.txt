@@ -172,7 +172,7 @@ graphviz==0.14
 greenlet==0.4.15
 grpc-google-iam-v1==0.12.3
 grpcio-gcp==0.2.2
-grpcio==1.28.1
+grpcio==1.53.0
 gunicorn==19.10.0
 hdfs==2.5.8
 hmsclient==0.1.1
