@@ -66,11 +66,11 @@
     "dagre-d3": "^0.6.4",
     "datatables.net": "^1.10.19",
     "datatables.net-bs": "^1.10.19",
-    "eonasdan-bootstrap-datetimepicker": "^4.17.47",
+    "eonasdan-bootstrap-datetimepicker": "^4.17.49",
     "jquery": ">=3.4.0",
     "js-yaml": ">=3.13.1",
     "lodash": "^4.17.13",
-    "moment-timezone": "^0.5.28",
+    "moment-timezone": "^0.5.41",
     "nvd3": "^1.8.6",
     "url-search-params-polyfill": "^6.0.0"
   }
